@@ -1,0 +1,60 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>About Us - Coffee House</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <nav>
+            <h2>Coffee House </h2>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="about">
+        <div class="about-image">
+            <img src="coffee.jpg" alt="Coffee Shop">
+        </div>
+
+        <div class="about-text">
+            <h1>About Our Coffee Shop</h1>
+            <h3>Every Cup Tells a Story </h3>
+
+            <p>
+                Welcome to Coffee House, a place where passion
+                for coffee meets comfort and creativity.
+                We believe that every cup of coffee should
+                bring happiness and unforgettable moments.
+            </p>
+
+            <p>
+                Our mission is to serve high-quality coffee,
+                fresh ingredients, and delicious treats in
+                a warm and friendly atmosphere.
+            </p>
+
+            <p>
+                Whether you want to relax, work, or spend time
+                with friends, Coffee House is the perfect place
+                for you!
+            </p>
+
+            <a href="index.html" class="btn">Back to Home</a>
+            
+        </div>
+    </section>
+
+    <footer>
+        <p> 2026 Coffee House  All Rights Reserved</p>
+    </footer>
+
+</body>
+</html>
+
+
