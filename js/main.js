@@ -25,3 +25,70 @@ var l = 4;
 var m = k % 1;
 console.log(m)
 
+var n = 99;
+n++;
+console.log(o);
+
+var p = 20;
+var q = p ** 2;
+console.log(q);
+
+var x = 15;
+x+=5;
+console.log(x);
+
+var r = 35;
+r-=5;
+console.log(r);
+
+var s = 10;
+s*=7;
+console.log(s);
+
+var t = 200;
+t/=2;
+console.log(s);
+
+var u = 10;
+u/=5;
+console.log(u);
+
+var v = 5;
+var w = 5;
+console.log(v == w);
+
+var x = 6;
+var y = 10;
+console.log(x != y);
+
+var num1 = 100;
+var num2 = 10;
+console.log(num1 > num2);
+
+var num3 = 1;
+var num4 = 2;
+console.log(num3 > num4);
+
+var num5 = 123;
+var num6 = "123";
+console.log(num5 === num6);
+
+var firstName = "Digital";
+var secondName = "School";
+var fullname = firstName+ " " +secondName;
+console.log(fullName);
+
+var school = "Digital School";
+
+console.log('Hello from ${school}');
+
+var age = 24;
+console.log(age >= 18 && age <= 65);
+
+var var1 = 5;
+var var2 = 6;
+console.log(var1 == 5  || va2 == 5);
+
+var var3 = 9;
+var var4 = 10;
+console.log(!(var3 == var4));
